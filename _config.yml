@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Benjamin Nativi"
 title_separator          : "-"
-name                     : &name "Benjamin Nativi"
+name                     : &name "About"
 description              : &description "Graduate student at UT Austin"
 url                      : https://bnativi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
